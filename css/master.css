@@ -8,7 +8,7 @@ body {
 p {font-size: 22px;}
 .margin {margin-bottom: 45px;}
 .bg-1 {
-    background-color: #9c1abc; /* Green */
+    background-color: #FFBF00; /* Green */
     color: #ffffff;
 }
 .bg-2 {
@@ -50,15 +50,15 @@ font-size: 30px;
    }
 
 .titulos-dec{
-  color:#9c1abc;
+  color:#FFBF00;
   font-weight: bold;
-  background-color: #ddb9e6;
+  background-color: #F2F5A9;
 }
 
 .titulos-dec2{
-  color:#9c1abc;
+  color:#FFBF00;
   font-weight: bold;
-  background-color: #ddb9e6;
+  background-color: #F2F5A9;
   font-size: 114%;
 }
 
